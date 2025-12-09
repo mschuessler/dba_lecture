@@ -1,0 +1,30 @@
+[
+    {
+        "ipaddress": "149.224.192.178",
+        "ip_city": "Norderstedt"
+    },
+    {
+        "ipaddress": "217.111.77.10",
+        "ip_city": "Hamburg"
+    },
+    {
+        "ipaddress": "176.4.224.163",
+        "ip_city": "Hamburg"
+    },
+    {
+        "ipaddress": "85.48.186.87",
+        "ip_city": "Madrid"
+    },
+    {
+        "ipaddress": "109.42.113.90",
+        "ip_city": "Hamburg"
+    },
+    {
+        "ipaddress": "91.223.100.208",
+        "ip_city": "London"
+    },
+    {
+        "ipaddress": "176.4.224.54",
+        "ip_city": "Stuttgart"
+    }
+]
